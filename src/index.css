@@ -26,6 +26,10 @@
 		'Trebuchet MS', sans-serif;
 }
 
+* {
+	transition: all 0.5s;
+}
+
 html,
 body,
 #app,
